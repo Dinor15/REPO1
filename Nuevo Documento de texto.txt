@@ -6,3 +6,5 @@ subi mi primer archivo de mi repositorio local a  github que felicidad
 
 
 ahora vamos a modificar para subirlo al repositorio de git hub :)
+
+ahora estoy haciendo un commit para verlo en mi repositorio loca voy aver si salio estoy ahora en git 
