@@ -11,3 +11,6 @@ ahora estoy haciendo un commit para verlo en mi repositorio loca voy aver si sal
 
 
 esto esta modificado en git y no se en github13:33
+
+
+toma este comentario de error
